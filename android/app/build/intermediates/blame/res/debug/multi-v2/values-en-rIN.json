@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kyle Suter\\Desktop\\CS4261-First-Programming-Assignment\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "/Users/rajatkhanna/Code/friendlychat-android/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kyle Suter\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c99e01c1655138d174cc4785dbfba4f6\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/Users/rajatkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe16a8d0d032692f52cf77cc23079799/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kyle Suter\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fba1b9c30304f58d0f6bf0b7528c1ee6\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/Users/rajatkhanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4284dc5c204e83cdda414bf142632597/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

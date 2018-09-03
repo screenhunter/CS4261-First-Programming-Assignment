@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kyle Suter\\Desktop\\CS4261-First-Programming-Assignment\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "/Users/rajatkhanna/Code/friendlychat-android/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kyle Suter\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-15.0.2.aar\\b2ce1b323ecda7a471729594685484dd\\res\\values-or\\values.xml",
+                    "source": "/Users/rajatkhanna/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/314303a3128a5c06e07bdf74585aae4b/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

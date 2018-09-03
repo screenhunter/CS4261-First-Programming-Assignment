@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kyle Suter\\Desktop\\CS4261-First-Programming-Assignment\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/rajatkhanna/Code/friendlychat-android/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kyle Suter\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-appinvite-15.0.2.aar\\ab2fc962ee7762e606d6c886f0876e58\\res\\values-v11\\values.xml",
+                    "source": "/Users/rajatkhanna/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-15.0.2.aar/b040996747497824a46a24da25b37c04/res/values-v11/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
