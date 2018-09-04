@@ -31,6 +31,14 @@
           }
         },
         {
+          "client_id": "159535540541-5rtab4huopp1nn6pj6639ach3367adtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.cs4261hw2",
+            "certificate_hash": "9063185711455e17214ae195f26690dd35427b36"
+          }
+        },
+        {
           "client_id": "159535540541-osahbak9os7906pt7djmcs4uc89elqbu.apps.googleusercontent.com",
           "client_type": 3
         }
