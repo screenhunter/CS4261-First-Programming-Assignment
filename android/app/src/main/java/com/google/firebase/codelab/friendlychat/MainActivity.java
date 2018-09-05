@@ -16,13 +16,8 @@
 package com.google.firebase.codelab.friendlychat;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
-import android.location.Criteria;
-import android.location.Location;
-import android.location.LocationManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.design.widget.TextInputEditText;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -30,7 +25,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
@@ -40,10 +34,10 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
 
-    JSONObject weatherData = null;
+    private JSONObject weatherData = null;
     Button submitButton;
-    EditText input;
-    TextView currentWeather;
+    private EditText input;
+    private TextView currentWeather;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

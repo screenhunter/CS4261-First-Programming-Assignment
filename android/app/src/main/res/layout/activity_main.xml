@@ -23,19 +23,11 @@
 
     <TextView
         android:id="@+id/currentWeatherView"
-        android:layout_width="216dp"
-        android:layout_height="87dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="196dp"
-        android:text="TextView" />
-
-    <TextView
-        android:id="@+id/oldWeatherView"
-        android:layout_width="216dp"
-        android:layout_height="87dp"
-        android:layout_below="@+id/currentWeatherView"
-        android:layout_centerHorizontal="true"
         android:text="TextView" />
 
     <Button
@@ -44,6 +36,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/zipcodeEntry"
         android:layout_centerHorizontal="true"
-        android:text="Button" />
+        android:text="GET WEATHER" />
 
 </RelativeLayout>
